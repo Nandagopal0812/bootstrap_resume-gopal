@@ -1,0 +1,24 @@
+.left {
+  background-color: #dee2e7;
+}
+.contect {
+  padding-left: 40px;
+}
+
+.full {
+  padding: 0px 40px;
+}
+.change {
+  border: 3px dotted greenyellow;
+  width: 178px;
+}
+.img {
+  width: 115px;
+  height: 114px;
+  border-radius: 50%;
+  border: 3px dotted rgb(166, 0, 255);
+}
+.center {
+  gap: 15px;
+  padding: 10px;
+}
